@@ -52,10 +52,16 @@ section {
 }
 
 footer {
-    text-align: center;
     padding: 20px;
     background-color: var(--background1-color);
     color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+a:any-link {
+    color: gold
 }
 
 #idiomas {
@@ -74,7 +80,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #f2f2ff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -104,7 +110,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #fff2fe;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -133,11 +139,11 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #ffffff;
+    background-color: #fff9f2;
     padding: 30px;
     border-radius: 5%;
     box-shadow: 0 2px 20px var(--menu-border-color);
-    width: 300px; /* Ajusta según necesidad */
+    width: 200px; /* Ajusta según necesidad */
     text-align: center;
 }
 
@@ -162,9 +168,9 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #f6fff2;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 5%;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     width: 250px; /* Ajuste según necesidad */
     text-align: center;
@@ -191,7 +197,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #f2fffd;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
