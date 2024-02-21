@@ -71,7 +71,10 @@ footer {
 }
 
 .degree a:any-link{
-    color: darkred;
+    color: darkgreen;
+}
+.course a:any-link{
+    color: darkblue;
 }
 
 footer a:any-link {
