@@ -66,9 +66,16 @@ footer {
     box-shadow: 0px -10px 10px var(--menu-border-color);
     
 }
+.job a:any-link{
+    color: darkred;
+}
 
-a:any-link {
-    color: gold
+.degree a:any-link{
+    color: darkred;
+}
+
+footer a:any-link {
+    color: rgb(190, 162, 0)
 }
 
 #idiomas {
