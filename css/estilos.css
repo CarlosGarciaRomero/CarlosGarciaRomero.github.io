@@ -60,7 +60,7 @@ section {
 footer {
     padding: 20px;
     background-color: var(--background1-color);
-    color: #fff;
+    color: #f8f8f8;
     display: flex;
     justify-content: space-evenly;
     box-shadow: 0px -10px 10px var(--menu-border-color);
